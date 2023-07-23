@@ -1,0 +1,5 @@
+{
+    "ConnectionStrings":{
+        "Luna":"server=DESKTOP-4P6HKDE\\saky; user id=admin; password=admin; database=LunaDev; Pooling=true; Max Pool Size=100; MultipleActiveResultSets=True; Encrypt=False;"
+    }
+}

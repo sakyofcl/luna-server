@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dXCqHqtmRLQAjYFwuhxJ3nn3xtZTdQ0I6E6gSOtXkvk=",
+  "Source": "luna-server",
+  "BasePath": "_content/luna-server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
